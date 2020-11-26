@@ -1,0 +1,7 @@
+name: ArmorStandPlus
+version: ${project.version}
+main: place.foo.armorstandplus.ArmorStandPlus
+api-version: 1.16
+prefix: [ASP]
+authors: [collinb1129]
+description: Adds vanilla-like customization to armor stands
